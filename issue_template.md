@@ -1,4 +1,16 @@
-## ¿Cómo puedo replicar el problema?
-Por favor explicanos como replicar el problema paso a paso y en que sistema operativo ocurre.
-## ¿En que versión de Invie ocurre?
-Si este problema ocurre en todas las versiones por favor tambien mencionarlo.
+
+## Comportamiento esperado
+¿Cuál es tu expectativa?
+
+## Comportamiento real
+¿Qué ocurrio realmente?
+
+## Pasos para reproducir el Issue
+Por favor agregar los pasa para reproducir el issue
+1.
+2.
+3.
+
+## Registros
+Por favor agregar más información si la tienes (logs o files).
+
