@@ -1,9 +1,14 @@
 # Descripción
-¿Qué ha cambiado?
+¿Es un bug o un feature?
 
-- [ ] Fronted
-- [ ] Backend
-- [ ] Configuración del servidor
+- [ ] Bug
+- [ ] Feature
 
-# ¿Cómo puedo probar los cambios?
-¿En qué forma y URL puedo ver el update?
+
+# ¿Probado?
+¿Cómo ha sido probado?
+Por favor especificar las formas en las que ha sido probado.
+
+- [ ] Prueba A
+- [ ] Prueba B
+
